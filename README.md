@@ -1,6 +1,5 @@
 # The Bond Penalty: Same System, Different Outcome
 
-**DVN Group 11 | Assignment 3 | Data Visualisation and Narratives | May 2026**
 
 ---
 
@@ -274,4 +273,4 @@ Variables marked **[CALCULATED]** are derived fields and do not exist as raw col
 
 Our project planning, EDA notes, and storyboard are documented on our group Miro board.
 
-**Link:** [DVN Group 11 — Miro Board](https://miro.com/app/board/uXjVGgF4rd8=/)
+**Link:** [Miro Board](https://miro.com/app/board/uXjVGgF4rd8=/)
