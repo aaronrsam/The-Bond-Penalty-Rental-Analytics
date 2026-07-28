@@ -29,7 +29,7 @@ This project is framed as a data-driven briefing to the Minister, whose portfoli
 
 **Title:** The Bond Penalty: Same System, Different Outcome
 
-**Link:** [Tableau Public — The Bond Penalty](https://public.tableau.com/views/TheBondPenalty-NSWRentalCrisis/TheBondPenalty)
+**Link:** [Tableau Public — The Bond Penalty](https://public.tableau.com/app/profile/md.abtab.karim.kabbo/viz/TheRentersTaxNSW/Dashboard)
 
 The dashboard is designed as a **decision-support tool**, not just a reporting dashboard. It allows a policymaker to:
 
